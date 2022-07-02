@@ -1,0 +1,56 @@
+h1 {
+  margin: 0px;
+}
+body{
+  margin: 0px;
+}
+.des{
+  background-color: black;
+  color: aliceblue;
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  display: block;
+  padding: 20px 0px;
+}
+.main{
+  color:black ;
+  background-color: aliceblue;
+  border: 2px solid red;
+  border-radius: 10px;
+  box-shadow: 2px 5px #3b3b3b;
+  margin: 40px auto;
+  padding: 20px;
+  width: 60%;
+ 
+}
+.header{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  
+}
+.author{
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color:rgb(230, 17, 34);
+  font-size: 20px;
+}
+.date{
+  color: rgb(167, 129, 110);
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.descroiiption{
+  text-align: justify;
+  font-size: larger;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.footer{
+  background-color: #3b3b3b;
+  color: white;
+  text-align: center;
+  width: 100%;
+  height: 20px;
+  display: inline-block;
+  margin: 0px;
+  padding: 5px;
+  font-size: medium;
+  font-family: Arial, Helvetica, sans-serif;
+}
